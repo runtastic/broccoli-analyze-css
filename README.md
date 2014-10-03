@@ -21,6 +21,4 @@ tree = analyzeCss(tree, options);
 
 ## License
 
-Copyright (c) 2014 [Shinnosuke Watanabe](https://github.com/shinnn)
-
 Licensed under [the MIT LIcense](./LICENSE).
