@@ -11,7 +11,6 @@ var mapSeries  = require('promise-map-series')
 var mkdirp     = require('mkdirp');
 var path       = require('path');
 var walkSync   = require('walk-sync');
-var async      = require('async');
 var _          = require('lodash');
 var mapSeries  = require('promise-map-series');
 
